@@ -1,1 +1,2 @@
 # StockPickerBot
+We pick stocks.
